@@ -37,6 +37,8 @@ Please note that this is an estimation of how Marx might have described the labo
 
 However, the cycle above adopts his estimation of how a socialist economy would be ordered, and how it mediates a worker's access to the collective stock. The basis of this cycle is labour, rewarded in a non-transferable labour certificate. In the lower-phase of communism, Marx states that the Bourgeois right of equivocation is likely to persist, and therefore, Labour-certificates are aggregated across an industry or the entire economy, and rewarded after the social deducations and differentials are calculated. 
 
+The social deducations are denoted by (D). This is the most complex calculation to be done, and captures the raw process of socio-political mediation. Contained within V is the calculation of labour differentials. This is a very complex calculation of how 
+
 -----
 
 ### A metabolic rift between an economy and nature
