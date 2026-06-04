@@ -11,7 +11,7 @@ This project develops a unified formal notation for two interlaced cycles:
 
 Marx defined capital as a movement, a process of self-expansion, denoted by the following equation;
 
-M -> C(Lp+Mp)... P... C' -> M'
+M -> C(Lp+Mp) ... P ... C' -> M'
 
 Where M was the money advanced to cover the cost of the living labour's wage and the means of production. Production (P) occurs when living labour is applied to the means, denoted by Lp+Mp. This produces a commodity embodying all previous value, plus the suplus created by living labour. An exchange occurs, and the capitalist receives this value plus the suplus created as M'.
 
@@ -34,6 +34,8 @@ L ... P(Lp+Mp) ... U' -> D : V ~ Uc ... L*
 Where L is the labourer entering production with their capacity to work. Production (P) occurs when living labour (Lp) is applied to the means of production (Mp). This yields a total social product (U'), embodying all value created. Before individual distribution, society deducts a portion (D) for the replacement of means, expansion, social services and ecological regeneration. What remains is distributed to labourers via a differential voucher (V), reflecting contribution and need. The voucher mediates access to consumption goods (~ Uc), which the labourer consumes, reproducing their labour power for the next cycle (L*). The cycle restarts, but the labourer may be more skilled, more rested, or aged. The asterisk is open.
 
 Please note that this is an estimation of how Marx might have described the labour-cycle. His suggestions for how socialism would look was based on observations of the capital-producing cycle, and he refrained from theorising about the next stages of economy as he was aware that his word was desisive.
+
+However, the cycle above adopts his estimation of how a socialist economy would be ordered, and how it mediates a worker's access to the collective stock. The basis of this cycle is labour, rewarded in a non-transferable labour certificate. In the lower-phase of communism, Marx states that the Bourgeois right of equivocation is likely to persist, and therefore, Labour-certificates are aggregated across an industry or the entire economy, and rewarded after the social deducations and differentials are calculated. 
 
 -----
 
