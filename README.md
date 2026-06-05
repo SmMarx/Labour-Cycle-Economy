@@ -35,9 +35,11 @@ Where L is the labourer entering production with their capacity to work. Product
 
 Please note that this is an estimation of how Marx might have described the labour-cycle. His suggestions for how socialism would look was based on observations of the capital-producing cycle, and he refrained from theorising about the next stages of economy as he was aware that his word was decisive.
 
-However, the cycle above adopts his estimation of how a socialist economy would be ordered, and how it mediates a worker's access to the collective stock. The basis of this cycle is labour, rewarded in a non-transferable labour certificate. In the lower-phase of communism, Marx states that the Bourgeois right of equivocation is likely to persist, and therefore, Labour-certificates are aggregated across an industry or the entire economy, and rewarded after the social deducations and differentials are calculated. 
+However, the cycle above adopts his estimation of how a socialist economy would be ordered, and how it mediates a worker's access to the collective stock. The basis of this cycle is labour, rewarded in a non-transferable labour certificate. In the lower-phase of communism, Marx states that the Bourgeois right of equivalence is likely to persist, and therefore, Labour-certificates are aggregated across an industry or the entire economy, and rewarded after the social deducations and differentials are calculated. 
 
-The social deducations are denoted by (D). This is the most complex calculation to be done, and captures the raw process of socio-political mediation. Contained within V is the calculation of labour differentials. This is a very complex calculation of how 
+The social deducations are denoted by (D). This is a complex calculation, and captures the raw process of socio-political mediation. It will likely be contentious, as many invested parties will vie for their interests. Contained within V is the calculation of labour differentials. The raw calculation of differentials is also complex, but in the context of labour-quality and intensity. As Marx suggested, this is where the bourgeois right of equivalence will enter into the process.
+
+There are a variety of methods to calculate differentials, from the crude to the complex.
 
 -----
 
