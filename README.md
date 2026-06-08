@@ -11,7 +11,9 @@ This project develops a unified formal notation for two interlaced cycles:
 
 Marx defined capital as a movement, a process of self-expansion, denoted by the following equation;
 
-M -> C(Lp+Mp) ... P ... C' -> M'
+Shorthand: M -> C -> M'
+
+Expanded: M -> C(Lp+Mp) ... P ... C' -> M'
 
 Where M was the money advanced to cover the cost of the living labour's wage and the means of production. Production (P) occurs when living labour is applied to the means, denoted by Lp+Mp. This produces a commodity embodying all previous value, plus the suplus created by living labour. An exchange occurs, and the capitalist receives this value plus the suplus created as M'.
 
@@ -29,7 +31,9 @@ Marx proposed this solution shortly before his death, and left its full elaborat
 
 An estimation of Marx's labour-cycle foundation is described below;
 
-L ... P(Lp+Mp) ... U' -> D : V ~ Uc ... L*
+Shorthand: L -> V -> L*
+
+Expanded: L ... P(Lp+Mp) ... U' -> D : V ~ Uc ... L*
 
 Where L is the labourer entering production with their capacity to work. Production (P) occurs when living labour (Lp) is applied to the means of production (Mp). This yields a total social product (U'), embodying all value created. Before individual distribution, society deducts a portion (D) for the replacement of means, expansion, social services and ecological regeneration. What remains is distributed to labourers via a differential voucher (V), reflecting contribution and need. The voucher mediates access to consumption goods (~ Uc), which the labourer consumes, reproducing their labour power for the next cycle (L*). The cycle restarts, but the labourer may be more skilled, more rested, or aged. The asterisk is open.
 
